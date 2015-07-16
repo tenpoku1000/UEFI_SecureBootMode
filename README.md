@@ -8,6 +8,8 @@ UEFI セキュアブートのモード表示を行う UEFI アプリケーショ
 * AuditMode
 * DeployedMode
 
+UEFI セキュアブート未対応の環境では unknown mode と表示されます。
+
 ## 開発環境
 
 * Visual Studio Community 2013  
