@@ -12,8 +12,8 @@ UEFI セキュアブート未対応の環境では unknown mode と表示され�
 
 ## 開発環境
 
-* Visual Studio Community 2013  
-http://www.visualstudio.com/ja-jp/products/visual-studio-community-vs.aspx
+* Visual Studio Community 2015
+https://www.visualstudio.com/ja-jp/products/visual-studio-community-vs.aspx
 * Windows 8.1 Update 64 ビット版
 * 64 ビット UEFI 対応 PC
 * USB メモリ
