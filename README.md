@@ -12,9 +12,9 @@ UEFI セキュアブート未対応の環境では unknown mode と表示され�
 
 ## 開発環境
 
-* Visual Studio Community 2015
-https://www.visualstudio.com/ja-jp/products/visual-studio-community-vs.aspx
-* Windows 8.1 Update 64 ビット版
+* Visual Studio Community 2015 + Windows SDK for Windows 10
+https://msdn.microsoft.com/ja-jp/windows/hardware/dn913721(v=vs.8.5).aspx
+* 64 ビット版 Windows 10
 * 64 ビット UEFI 対応 PC
 * USB メモリ
 
