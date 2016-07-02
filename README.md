@@ -1,4 +1,4 @@
-# UEFI_SecureBootMode
+﻿# UEFI_SecureBootMode
 
 UEFI セキュアブートのモード表示を行う UEFI アプリケーションです。表示可能なモードは以下の通りです。
 ただし、セキュアブート有効時の起動に対応していないため、限定的な条件下での表示になります。
@@ -13,7 +13,7 @@ UEFI セキュアブート未対応の環境では unknown mode と表示され�
 ## 開発環境
 
 * Visual Studio Community 2015 + Windows SDK for Windows 10
-https://msdn.microsoft.com/ja-jp/windows/hardware/hh852365.aspx
+https://developer.microsoft.com/ja-jp/windows/hardware/windows-driver-kit
 * 64 ビット版 Windows 10
 * 64 ビット UEFI 対応 PC
 * USB メモリ
