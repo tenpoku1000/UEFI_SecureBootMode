@@ -50,6 +50,7 @@
       <DisableSpecificWarnings>4091</DisableSpecificWarnings>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
       <WholeProgramOptimization>false</WholeProgramOptimization>
+      <IgnoreStandardIncludePath>true</IgnoreStandardIncludePath>
     </ClCompile>
     <Link>
       <SubSystem>EFI Application</SubSystem>
